@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.0.1...v1.1.0) (2024-02-22)
+
+
+### Features
+
+* Multiple features from Sprint 02 ([#2](https://github.com/vunguyen22271/Auto_Release_01/issues/2)) ([7a98735](https://github.com/vunguyen22271/Auto_Release_01/commit/7a98735c0f65906eec1e192d4cbaa08e41dbec6f))
+
 ## [1.0.1](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.0.0...v1.0.1) (2024-02-22)
 
 
