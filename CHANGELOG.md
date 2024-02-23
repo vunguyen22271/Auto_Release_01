@@ -1,3 +1,23 @@
+# [2.0.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.6.0...v2.0.0) (2024-02-23)
+
+
+### Bug Fixes
+
+* Fix bug12 ([90b275b](https://github.com/vunguyen22271/Auto_Release_01/commit/90b275bfd2add918a339faa6c60786c5b626a14a))
+
+
+* Merge pull request #11 from vunguyen22271/features ([3d41071](https://github.com/vunguyen22271/Auto_Release_01/commit/3d41071a1315b5517b78158a6519477d5a34948a)), closes [#11](https://github.com/vunguyen22271/Auto_Release_01/issues/11)
+
+
+### Features
+
+* Add Feat13 ([04887a4](https://github.com/vunguyen22271/Auto_Release_01/commit/04887a4eaf79e8361455acd1a37841f529d21d58))
+
+
+### BREAKING CHANGES
+
+* Add Feat13
+
 # [1.6.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.5.0...v1.6.0) (2024-02-23)
 
 
