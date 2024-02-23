@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.4.0...v1.5.0) (2024-02-23)
+
+
+### Features
+
+* Add F10 ([#9](https://github.com/vunguyen22271/Auto_Release_01/issues/9)) ([40ebd30](https://github.com/vunguyen22271/Auto_Release_01/commit/40ebd3092db9cc2e42820c677b2e5432704e2b98))
+
 # [1.4.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.3.1...v1.4.0) (2024-02-23)
 
 
