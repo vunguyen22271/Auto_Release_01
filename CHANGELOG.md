@@ -1,3 +1,15 @@
+# [1.6.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.5.0...v1.6.0) (2024-02-23)
+
+
+### Bug Fixes
+
+* Fix bug11 ([dba710c](https://github.com/vunguyen22271/Auto_Release_01/commit/dba710c2cad5fbdbee0f0332c8007e4438968987))
+
+
+### Features
+
+* Add Feat11 ([767581b](https://github.com/vunguyen22271/Auto_Release_01/commit/767581bdf39c5058ccf9b6e430f2230f81cdb60d))
+
 # [1.5.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.4.0...v1.5.0) (2024-02-23)
 
 
