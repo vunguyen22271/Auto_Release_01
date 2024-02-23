@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.3.0...v1.3.1) (2024-02-23)
+
+
+### Bug Fixes
+
+* **api:** Fix issues realted to feature06 ([b55d306](https://github.com/vunguyen22271/Auto_Release_01/commit/b55d306a3130ed5a1d196323860f9fc3ee0e4a98)), closes [#5](https://github.com/vunguyen22271/Auto_Release_01/issues/5)
+
 # [1.3.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.2.0...v1.3.0) (2024-02-23)
 
 
