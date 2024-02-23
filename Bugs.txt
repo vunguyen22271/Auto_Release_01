@@ -4,3 +4,4 @@ Fix bug for feature06
 Fix issues realted to feature06
 Fix bug08
 Fix 11
+Fix 12
