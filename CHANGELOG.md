@@ -1,3 +1,19 @@
+# [4.0.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v3.0.0...v4.0.0) (2024-02-23)
+
+
+* Merge pull request #13 from vunguyen22271/develop/some_features ([dc9b379](https://github.com/vunguyen22271/Auto_Release_01/commit/dc9b3794f58d395bb25b7dbf3673d56dd5215507)), closes [#13](https://github.com/vunguyen22271/Auto_Release_01/issues/13)
+
+
+### Features
+
+* Add F1 ([2a83daa](https://github.com/vunguyen22271/Auto_Release_01/commit/2a83daa91ff1c9455ae0acca406b3f4a4312644a))
+* Add F2 ([79ea8f8](https://github.com/vunguyen22271/Auto_Release_01/commit/79ea8f85538b6a9f339b829df1abdf3e21b9894b))
+
+
+### BREAKING CHANGES
+
+* Add some Major Features
+
 # [3.0.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v2.0.0...v3.0.0) (2024-02-23)
 
 
