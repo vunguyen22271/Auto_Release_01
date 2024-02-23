@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/vunguyen22271/Auto_Release_01/compare/v4.0.0...v4.0.1) (2024-02-23)
+
+
+### Bug Fixes
+
+* hot fix ([ae20c9d](https://github.com/vunguyen22271/Auto_Release_01/commit/ae20c9d91b9ae3041a24860bdcbb5c429f821ff3))
+
 # [4.0.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v3.0.0...v4.0.0) (2024-02-23)
 
 
