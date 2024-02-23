@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.3.1...v1.4.0) (2024-02-23)
+
+
+### Features
+
+* Add Feature07 ([a151555](https://github.com/vunguyen22271/Auto_Release_01/commit/a1515555d2b58cbf2cff5f41140ec0b629618f3b))
+
 ## [1.3.1](https://github.com/vunguyen22271/Auto_Release_01/compare/v1.3.0...v1.3.1) (2024-02-23)
 
 
