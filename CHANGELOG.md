@@ -1,3 +1,15 @@
+# [4.1.0](https://github.com/vunguyen22271/Auto_Release_01/compare/v4.0.1...v4.1.0) (2024-02-23)
+
+
+### Bug Fixes
+
+* fix 01 ([1a4e7da](https://github.com/vunguyen22271/Auto_Release_01/commit/1a4e7daaa6ef4366eb7732564c8e02cd34919815))
+
+
+### Features
+
+* feat 01 ([031d1e8](https://github.com/vunguyen22271/Auto_Release_01/commit/031d1e8156b45293cd1ff0690062812a6d3dc7b8))
+
 ## [4.0.1](https://github.com/vunguyen22271/Auto_Release_01/compare/v4.0.0...v4.0.1) (2024-02-23)
 
 
